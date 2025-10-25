@@ -3,7 +3,9 @@ function carregar() {
     var img = window.document.getElementById("foto")
     var data = new Date()
     var hora = data.getHours()
-    msg.innerHTML = `Agora são ${hora} horas.`
+    var minutos = data.getMinutes()
+    var segundos = data.getSeconds()
+    msg.innerHTML = `Agora são ${hora}h ${minutos}m ${segundos}s.`
 
     if (hora >= 6 && hora <= 12) {
         img.src = "fotomanha.jpg"
@@ -17,3 +19,4 @@ function carregar() {
     }
 }
 
+setInterval(carregar, 1000)
