@@ -1,6 +1,6 @@
 # ⏰ Dynamic Clock - Relógio Dinâmico em JavaScript
 
-> Um relógio elegante, dinâmico e totalmente funcional feito com **JavaScript, HTML e CSS**. Atualiza a hora em tempo real e traz uma experiência visual moderna! 💻✨
+Um relógio elegante, dinâmico e totalmente funcional feito com **JavaScript, HTML e CSS**. Atualiza a hora em tempo real e traz uma experiência visual moderna! 💻✨
 
 ---
 
