@@ -19,8 +19,6 @@
 
 ---
 
-## 🚀 Como usar
+## 🚀 Acesse:
 
-1. Clone este repositório:  
-```bash
-git clone https://github.com/seu-usuario/dynamic-clock.git
+https://e-danillo.github.io/relogio-dinamico/
