@@ -1,12 +1,26 @@
-⏰ Relógio Dinâmico:
-Este projeto é uma aplicação web simples que exibe um relógio digital em tempo real. A principal característica é a sua dinamicidade, pois o design (cores e imagem de fundo) se ajusta automaticamente de acordo com a hora do dia (manhã, tarde ou noite).
+# ⏰ Dynamic Clock - Relógio Dinâmico em JavaScript
 
-🌟 Funcionalidades:
-Relógio em Tempo Real: Exibe as horas, minutos e segundos atualizados a cada instante.
+> Um relógio elegante, dinâmico e totalmente funcional feito com **JavaScript, HTML e CSS**. Atualiza a hora em tempo real e traz uma experiência visual moderna! 💻✨
 
-Design Dinâmico: O estilo visual muda automaticamente para refletir o período do dia:
+---
 
-Manhã: Exibe a imagem fotomanha.jpg.
-Tarde: Exibe a imagem fototarde.jpg.
-Noite: Exibe a imagem fotonoite.jpg.
+## 🌟 Funcionalidades
 
+- Exibição da **hora, minutos e segundos** em tempo real  
+- Atualização **dinâmica a cada segundo**  
+
+---
+
+## ⚙️ Tecnologias
+
+- **HTML5** 
+- **CSS3**
+- **JavaScript**  
+
+---
+
+## 🚀 Como usar
+
+1. Clone este repositório:  
+```bash
+git clone https://github.com/seu-usuario/dynamic-clock.git
